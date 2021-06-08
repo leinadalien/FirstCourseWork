@@ -1,24 +1,17 @@
-﻿  main.cpp
-D:\Visual Studio projects\Mario\Mario\main.cpp(29,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-D:\Visual Studio projects\Mario\Mario\main.cpp(30,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-D:\Visual Studio projects\Mario\Mario\main.cpp(177,55): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+﻿  level.cpp
+D:\Visual Studio projects\Mario\Mario\level.cpp(64,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio projects\Mario\Mario\level.cpp(65,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio projects\Mario\Mario\level.cpp(216,55): warning C4244: =: преобразование "T" в "int", возможна потеря данных
           with
           [
               T=float
           ]
-D:\Visual Studio projects\Mario\Mario\main.cpp(186,37): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+D:\Visual Studio projects\Mario\Mario\level.cpp(242,37): warning C4244: =: преобразование "T" в "int", возможна потеря данных
           with
           [
               T=float
           ]
-D:\Visual Studio projects\Mario\Mario\main.cpp(250,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
-D:\Visual Studio projects\Mario\Mario\main.cpp(265,19): warning C4305: =: усечение из "double" в "float"
-D:\Visual Studio projects\Mario\Mario\main.cpp(269,18): warning C4305: =: усечение из "double" в "float"
-D:\Visual Studio projects\Mario\Mario\main.cpp(282,40): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-D:\Visual Studio projects\Mario\Mario\main.cpp(287,42): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-D:\Visual Studio projects\Mario\Mario\main.cpp(307,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio projects\Mario\Mario\level.cpp(277,18): warning C4305: =: усечение из "double" в "float"
+D:\Visual Studio projects\Mario\Mario\level.cpp(281,17): warning C4305: =: усечение из "double" в "float"
+D:\Visual Studio projects\Mario\Mario\level.cpp(296,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
   Mario.vcxproj -> D:\Visual Studio projects\Mario\Debug\Mario.exe

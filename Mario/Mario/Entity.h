@@ -13,7 +13,7 @@ public:
 	Entity();
 	Entity(Texture& image, int** TileMap, int x, int y, bool direction);
 	virtual void update(float time, float& offsetX, float& offsetY);
-	void Collision(int num);
+	virtual void Collision(int num);
 };
 
 
